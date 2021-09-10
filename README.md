@@ -6,6 +6,6 @@ Currently studying algorithm Problem Solving and Machine Learing.
 
 Might be working on online judge systems.
 
-Gyeonggi Science High School student.
+Currently in Gyeonggi Science High School student.
 
-junukwon7@gmail.com
+contact me at: junukwon7@gmail.com
