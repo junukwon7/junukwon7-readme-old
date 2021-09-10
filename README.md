@@ -9,3 +9,5 @@ Might be working on online judge systems.
 Currently a Gyeonggi Science High School student.
 
 contact me at: junukwon7@gmail.com
+
+[![Junu Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junukwon7)](https://github.com/anuraghazra/github-readme-stats)
