@@ -2,11 +2,7 @@
 
 I'm a high school student in South Korea.
 
-Currently studying Problem Solving and Machine Learing.
-
-PS: KOI, ...
-
-ML: quantization and pruning for object detection networks.
+Currently studying algorithm Problem Solving and Machine Learing.
 
 Might be working on online judge systems.
 
