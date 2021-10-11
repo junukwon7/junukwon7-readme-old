@@ -14,7 +14,7 @@ Projects
 * [gshs-format](https://github.com/gshslatexintro/gshs-format), GSHS LaTeX formats
 * [Excelerator](https://github.com/junukwon7/Excelerator), A PNG-to-XLXS transferer based on Python
 * [Camo](https://github.com/junukwon7/Camo), A mullti-scale camouflage generator based on C/C++ and quantization
-* [ServeTools](https://github.com/junukwon7/ServerTools), A server management tool based on JavaFX
+* [ServerTools](https://github.com/junukwon7/ServerTools), A server management tool based on JavaFX
 * [CSL](https://github.com/melongist/CSL), Various tools(CMS, HUSTOJ, DOMJUDGE...) for informatics instructors
 * [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation thesis code
 * [Hydro](https://github.com/hydro-dev/Hydro), VJ4-based online-judge
