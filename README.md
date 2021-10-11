@@ -11,7 +11,7 @@ Currently a Gyeonggi Science High School student.
 contact me at: junukwon7@gmail.com
 
 Working for:
-@gshslatexintro
-@gshslinuxintro
+[gshslatexintro](https://github.com/gshslatexintro)
+[gshslatexintro](https://github.com/gshslinuxintro)
 
 [![Junu Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junukwon7)](https://github.com/junukwon7)
