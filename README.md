@@ -23,7 +23,6 @@ Projects
 
 Groups
 ---
-Current Groups:
 * [GSHS Latex Intro](https://github.com/gshslatexintro)
 * [GSHS Linux Intro](https://github.com/gshslinuxintro)
 * [GSHS OJ(New Koistudy)](https://github.com/gshsoj)
