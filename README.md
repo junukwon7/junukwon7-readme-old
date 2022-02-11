@@ -10,12 +10,10 @@ Service Contract worker
 
 Bio
 ---
-| 　　　　|   　　　　 |
-:-------------------------:|:-------------------------:
-2019.3.2. ~ 2022.1.7.|Gyeonggi Science High School
-2022.2.3. ~ 　　　　|Software Programmer at BigTeam
-2022.2.7. ~ 2022.5.7.|Software Programmer at Seoul National University
-2022.3.2. ~ 　　　　|Seoul National University
+* 2019.3.2. ~ 2022.1.7.　　　　Gyeonggi Science High School　　　　　　　　　　
+* 2022.2.3. ~ 　　　　　　　　Software Programmer at BigTeam　　　　　　　　
+* 2022.2.7. ~ 2022.5.7.　　　　Software Programmer at Seoul National University　
+* 2022.3.2. ~ 　　　　　　　　Seoul National University　　　　　　　　　　　　
 
 Projects
 ---
