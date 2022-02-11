@@ -4,7 +4,8 @@ My name is JUNU KWON / 권준우. Call me Junu.
 
 I'm a student in Gyeonggi Science High School, Republic of Korea(South Korea).
 
-Currently working on algorithm Problem Solving, Machine Learing, and Online Judge systems.
+~Currently working on algorithm Problem Solving, Machine Learing, and Online Judge systems.~
+Contract worker at [Office of Information Systems & Technology, Seoul National University](https://ist.snu.ac.kr/)
 
 Projects
 ---
