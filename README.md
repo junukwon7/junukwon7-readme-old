@@ -2,15 +2,18 @@
 
 My name is JUNU KWON / 권준우. Call me Junu.
 
-I'm a student in Gyeonggi Science High School, Republic of Korea(South Korea).
+I'm a student in Seoul National University, Republic of Korea(South Korea).
 
-~Currently working on algorithm Problem Solving, Machine Learing, and Online Judge systems.~
+Contract worker at [Office of Information Systems & Technology, SNU](https://ist.snu.ac.kr/) (서울대학교 정보화본부)
 
-Contract worker at [Office of Information Systems & Technology, Seoul National University](https://ist.snu.ac.kr/)
+
+Bio
+---
+* 2022, Graduated Gyeonggi Science High School
 
 Projects
 ---
-* [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page
+* [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page * 현재 cslab.gs.hs.kr 접속 불가
 * [An-Introduction-to-Linux](https://github.com/gshslinuxintro/An-Introduction-to-Linux), Documentations for researchers using linux servers.
 * [latex.gs.hs.kr](https://github.com/gshslatexintro/latex.gs.hs.kr), GSHS LaTeX Society page.
 * [gshs-format](https://github.com/gshslatexintro/gshs-format), GSHS LaTeX formats
@@ -38,3 +41,5 @@ Groups
 
 Contact me at: junukwon7@gmail.com
 
+
+Currently working on algorithm Problem Solving, Machine Learing, and Online Judge systems.
