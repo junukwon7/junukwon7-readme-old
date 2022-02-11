@@ -10,7 +10,7 @@ Service Contract worker
 
 Bio
 ---
-|Period|  Experience |
+| 　　　　|   　　　　 |
 :-------------------------:|:-------------------------:
 2019.3.2. ~ 2022.1.7.|Gyeonggi Science High School
 2022.2.3. ~ 　　　　|Software Programmer at BigTeam
