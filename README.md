@@ -2,7 +2,7 @@
 
 My name is JUNU KWON / 권준우. Call me Junu.
 
-I'm a student in Seoul National University, Republic of Korea(South Korea).
+I'm a student in Seoul National University.
 
 Contract worker at [Office of Information Systems & Technology, SNU](https://ist.snu.ac.kr/) (서울대학교 정보화본부)
 
