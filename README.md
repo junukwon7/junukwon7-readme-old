@@ -5,14 +5,14 @@ My name is JUNU KWON / 권준우. Call me Junu.
 I'm a student in Seoul National University.
 
 Software Programmer at Seoul National University, [Office of Information Systems & Technology](https://ist.snu.ac.kr/) (서울대학교 정보화본부) </br>
-Service Contract worker
+
 
 
 Bio
 ---
 * 2019.3.2. ~ 2022.1.7.　　　　Gyeonggi Science High School　　　　　　　　　　
 * 2022.2.3. ~ 　　　　　　　　Software Programmer at BigTeam　　　　　　　　
-* 2022.2.7. ~ 2022.5.7.　　　　Software Programmer at Seoul National University　
+* 2022.2.7. ~ 2022.5.7.　　　　Software Programmer at Seoul National University (Service Contract Worker)
 * 2022.3.2. ~ 　　　　　　　　Seoul National University　　　　　　　　　　　　
 
 Projects
