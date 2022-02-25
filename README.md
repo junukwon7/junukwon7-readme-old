@@ -2,22 +2,19 @@
 
 My name is JUNU KWON / 권준우. Call me Junu.
 
-I'm a student in Seoul National University.
-
-Software Programmer at Seoul National University, [Office of Information Systems & Technology](https://ist.snu.ac.kr/) (서울대학교 정보화본부) </br>
-
+Software Engineer at SNU, [Office of Information Systems & Technology](https://ist.snu.ac.kr/) (서울대학교 정보화본부) </br>
 
 
 Bio
 ---
-* 2019.3.2. ~ 2022.1.7.　　　　Gyeonggi Science High School　　　　　　　　　　
-* 2022.2.3. ~ 　　　　　　　　Software Programmer at BigTeam　　　　　　　　
-* 2022.2.7. ~ 2022.5.7.　　　　Software Programmer at Seoul National University (Service Contract Worker)
-* 2022.3.2. ~ 　　　　　　　　Seoul National University　　　　　　　　　　　　
+* 2019.3.2. ~ 2022.1.7.&#160;&#160;&#160;&#160;Gyeonggi Science High School　　　　　　　　
+* 2022.2.7. ~ 2022.5.7.&#160;&#160;&#160;&#160;Software Engineer at Seoul National University (Service Contract Worker)
+* 2022.3.2. ~ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;College of Liberal Studies, Seoul National University　　　　　　　　　　　　
 
 Projects
 ---
-* [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page * 현재 cslab.gs.hs.kr 접속 불가
+* [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page
+* [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation thesis code
 * [An-Introduction-to-Linux](https://github.com/gshslinuxintro/An-Introduction-to-Linux), Documentations for researchers using linux servers.
 * [latex.gs.hs.kr](https://github.com/gshslatexintro/latex.gs.hs.kr), GSHS LaTeX Society page.
 * [gshs-format](https://github.com/gshslatexintro/gshs-format), GSHS LaTeX formats
@@ -25,7 +22,6 @@ Projects
 * [Camo](https://github.com/junukwon7/Camo), A mullti-scale camouflage generator based on C/C++ and quantization
 * [ServerTools](https://github.com/junukwon7/ServerTools), A server management tool based on JavaFX
 * [CSL](https://github.com/melongist/CSL), Various tools(CMS, HUSTOJ, DOMJUDGE...) for informatics instructors
-* [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation thesis code
 * [cms-dev](https://github.com/junukwon7/cms), A famous contest management system used by IOI
 * [vj4](https://github.com/vijos/vj4), Online judge service, translator
 * [Hydro](https://github.com/hydro-dev/Hydro), VJ4-based online-judge, translator
