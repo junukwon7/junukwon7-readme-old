@@ -2,17 +2,17 @@
 
 My name is JUNU KWON / 권준우. Call me Junu.
 
-Software Engineer at SNU, [Office of Information Systems & Technology](https://ist.snu.ac.kr/) (서울대학교 정보화본부) </br>
+Currently working on Neural Network Compression, Computer Vision, and Algorithm(PS)
 
 
-Bio
+Education
 ---
 * 2019.3.2. ~ 2022.1.7.&#160;&#160;&#160;&#160;Gyeonggi Science High School　　　　　　　　
-* 2022.2.7. ~ 2022.5.7.&#160;&#160;&#160;&#160;Software Engineer at Seoul National University (Service Contract Worker)
 * 2022.3.2. ~ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;College of Liberal Studies, Seoul National University　　　　　　　　　　　　
 
-Projects
+Works
 ---
+* Software Engineer at [서울대학교 정보화본부](https://ist.snu.ac.kr/)(Service Contract Worker)
 * [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page
 * [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation thesis code
 * [An-Introduction-to-Linux](https://github.com/gshslinuxintro/An-Introduction-to-Linux), Documentations for researchers using linux servers.
@@ -42,4 +42,3 @@ Groups
 Contact me at: junukwon7@gmail.com
 
 
-Currently working on algorithm Problem Solving, Machine Learing, and Online Judge systems.
