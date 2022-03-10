@@ -4,6 +4,8 @@ My name is JUNU KWON / 권준우. Call me Junu.
 
 Currently working on Neural Network Compression, Computer Vision, and Algorithm(PS)
 
+Visit me at [cslab.gs.hs.kr](http://cslab.gs.hs.kr/junukwon7)!
+
 
 Education
 ---
@@ -39,6 +41,6 @@ Groups
 
 [![Junu Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junukwon7)](https://github.com/junukwon7)
 
-Contact me at: junukwon7@gmail.com
+Contact me at: [junukwon7@gmail.com](mailto:junukwon7@gmail.com)
 
 
