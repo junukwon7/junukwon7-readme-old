@@ -9,11 +9,12 @@ Visit me at [cslab.gs.hs.kr](http://cslab.gs.hs.kr/junukwon7)!
 
 Education
 ---
-* 2019.3.2. ~ 2022.1.7.&#160;&#160;&#160;&#160;Gyeonggi Science High School　　　　　　　　
-* 2022.3.2. ~ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;College of Liberal Studies, Seoul National University　　　　　　　　　　　　
+* 2022.3.2. ~ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;College of Liberal Studies, Seoul National University　　　　　
+* 2019.3.2. ~ 2022.1.7.&#160;&#160;&#160;&#160;Gyeonggi Science High School　　　　　　　
 
 Works
 ---
+* MLOps Engineer at [FriendliAi](https://friendli.ai/)
 * Software Engineer at [서울대학교 정보화본부](https://ist.snu.ac.kr/)(Service Contract Worker)
 * [cslab.gs.hs.kr](https://github.com/gshslinuxintro/cslab.gs.hs.kr), GSHS Research Server / Linux User Group page
 * [PyTorch-YOLOv3](https://github.com/junukwon7/PyTorch-YOLOv3), Graduation thesis code
